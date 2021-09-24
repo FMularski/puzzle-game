@@ -1,6 +1,5 @@
 ![Przechwytywanie](https://user-images.githubusercontent.com/26598200/134728913-2e67c42d-2cdb-4454-9455-ebe0e33592cb.PNG)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/FMularski/puzzle-game)
 ![GitHub last commit](https://img.shields.io/github/last-commit/FMularski/puzzle-game?color=yellow)
 ![GitHub top language](https://img.shields.io/github/languages/top/FMularski/puzzle-game?color=purple)
 
